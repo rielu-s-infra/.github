@@ -20,12 +20,15 @@
 私たちは、コミュニティからの貢献を歓迎しています！
 
 * **Good First Issues:** 初心者向けのタスクは各リポジトリのIssueをチェックしてください。
-* **Discussions:** 技術的な議論や提案は https://discord.gg/cfuMhPMm2u へ。
+* **お世話になっているdiscordサーバー:**  https://discord.gg/cfuMhPMm2u 
 
 ### 📫 Contact & Socials
 * **X (Twitter):** [rielu](https://x.com/nameko_simakaze)
 * **Email:** namonakiheimin@gmail.com
 
+### 注意
+このプロジェクトでりえるが実行しているのみのものであり、
+UniProject公認のプロジェクトではありません
 ---
 
 <p align="center">
