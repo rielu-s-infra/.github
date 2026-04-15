@@ -29,5 +29,5 @@
 ---
 
 <p align="center">
-  Made with ❤️ by the **riel'sinfra** team.
+  Made by the riel'sinfra team.
 </p>
